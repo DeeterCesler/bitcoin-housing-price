@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+.vscode/
+.idea/
+code-quality.md
